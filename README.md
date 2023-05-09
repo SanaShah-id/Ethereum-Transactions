@@ -11,10 +11,10 @@ Return the status code of a contract execution.
 # Resource Description
 Contains information about returns the status code of a contract execution.
 
-#Parameters
-##Path Parameters
+# Parameters
+## Path Parameters
 
-##Query String Parameters
+## Query String Parameters
 | Query String Parameter | Required/Optional | Description | Type |
 | ------ | ------ | ------ | ------ |
 | txhash | Required | the string representing the transaction hash to check the execution status | string |
@@ -31,10 +31,10 @@ Returns the status code of a transaction execution.
 # Resource Description
 Contains information about returns the status code of a transaction execution.
 
-#Parameters
-##Path Parameters
+# Parameters
+## Path Parameters
 
-##Query String Parameters
+## Query String Parameters
 | Query String Parameter | Required/Optional | Description | Type |
 | ------ | ------ | ------ | ------ |
 | txhash | Required | the string representing the transaction hash to check the execution status | string |
