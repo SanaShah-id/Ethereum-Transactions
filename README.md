@@ -1,5 +1,5 @@
 # Ethereum-Transactions
-How transactions are done in Ethereum Blockchain? 
+How transactions are made in Ethereum Blockchain? 
 
 # Ethereum-Transactions
 Ethereum is a decentralized blockchain platform that establishes a peer-to-peer network that securely executes and verifies application code, called smart contracts. Smart contracts allow participants to transact with each other without a trusted central authority.
